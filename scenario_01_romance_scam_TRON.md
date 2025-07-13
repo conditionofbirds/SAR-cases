@@ -8,21 +8,20 @@
 
 ---
 
-### 🧩 Summary:
+###  Summary:
 
 The subject wallet received multiple USDT transfers via TRON from P2P exchanges, followed by consolidated forwarding to a high-risk address. The wallet was flagged due to multiple transfers from unrelated female accounts linked to known romance scam reports.
 
 ---
 
-### 🧪 Indicators of Suspicion:
-
-- Memo-less TRC-20 transfers
-- 6 unique senders over 2 weeks
-- Pattern consistent with social engineering and scam typology
-- Forwarding to an exchange immediately after receipt
+Indicators of Suspicion:
+Memo-less TRC-20 transfers (!!!)
+6 unique senders over 2 weeks
+Pattern consistent with social engineering and scam typology
+Forwarding to an exchange immediately after receipt
 
 ---
 
-### 📩 Action Taken:
+### Action Taken (how it needs to be):
 
 Reported internally to Compliance Manager. SAR filed to appropriate FIU. Wallet frozen for review.
