@@ -14,7 +14,7 @@
 
 ---
 
-### Indicators of Suspicion:
+### Indicators of Suspicion (fill in based on your specific case — the examples below are just possible options):
 
   Structuring (smurfing)
 
