@@ -16,11 +16,11 @@
 
 ### Indicators of Suspicion:
 
-- [ ] Structuring (smurfing)
-- [ ] Use of privacy tools (e.g., mixers)
-- [ ] Memo-less transfer
-- [ ] High-risk jurisdiction
-- [ ] Other: ______________________
+  Structuring (smurfing)
+  Use of privacy tools (e.g., mixers)
+  Memo-less transfer
+  High-risk jurisdiction
+  Other: ______________________
 
 ---
 
