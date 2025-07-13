@@ -1,4 +1,4 @@
-# Blank SAR Template (Crypto Context)
+# Blank SAR Template
 
 **Subject Wallet:** `_______________`  
 **Counterparty:** `_______________`  
