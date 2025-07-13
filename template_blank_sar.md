@@ -8,13 +8,13 @@
 
 ---
 
-### 🧩 Summary:
+###  Summary:
 
-[Write a 3–5 sentence overview of the suspicious behavior, including timeline and transaction type.]
+[REcommend to write a 3–5 sentence overview of the suspicious behavior, including timeline and transaction type.]
 
 ---
 
-### 🧪 Indicators of Suspicion:
+### Indicators of Suspicion:
 
 - [ ] Structuring (smurfing)
 - [ ] Use of privacy tools (e.g., mixers)
@@ -24,6 +24,6 @@
 
 ---
 
-### 📩 Action Taken:
+###  Action Taken:
 
 [Describe internal handling, escalation, and SAR submission if applicable.]
